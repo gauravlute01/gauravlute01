@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Gaurav Lute  
 
 🔬 **M.Tech in Modeling and Simulation** | 🎓 **Savitribai Phule Pune University**  
-📊 **Passionate about Data Science, Machine Learning, and Optimization**  
+📊 **Passionate about Data Science, Machine Learning,Deep Learning, Generative Ai and Optimization**  
 
 ## 🚀 About Me  
 - 👀 I’m interested in **Machine Learning, Deep Learning, computer vision and simulation-based problem solving**  
