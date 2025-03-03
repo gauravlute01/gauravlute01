@@ -11,7 +11,7 @@
 - 📫 How to reach me: **[[Email](lutegaurav1@gmail.com
 ) / [LinkedIn](https://www.linkedin.com/in/gaurav-lute-6a36a1200/) / [GitHub Profile Link](https://github.com/gauravlute01)]**  
 - 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I love exploring optimization algorithms and their practical applications!**  
+- ⚡ Fun fact: **I love exploring ML | DL | Optimization algorithms and their practical applications!**  
 
 <!---
 gauravlute01/gauravlute01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
