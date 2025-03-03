@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Generative Ai, Computer Vision and deep learning techniques**  
 - 💡 I enjoy working on **real-world applications of AI and data-driven decision-making**  
 - 💞️ I’m looking to collaborate on **data science projects, research work, and innovative simulations**  
-- 📫 How to reach me: **[[Your Email](lutegaurav1@gmail.com
+- 📫 How to reach me: **[[Email](lutegaurav1@gmail.com
 ) / [LinkedIn](https://www.linkedin.com/in/gaurav-lute-6a36a1200/) / [GitHub Profile Link](https://github.com/gauravlute01)]**  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I love exploring optimization algorithms and their practical applications!**  
