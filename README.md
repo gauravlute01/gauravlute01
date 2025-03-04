@@ -5,7 +5,7 @@
 
 ## 🚀 About Me  
 - 👀 I’m interested in **Machine Learning, Deep Learning, computer vision,NLP, Gen-AI and simulation-based problem solving**  
-- 🌱 I’m currently learning **Generative Ai, Computer Vision and deep learning techniques**  
+- 🌱 I’m currently learning **Generative Ai, Computer Vision and Deep learning techniques**  
 - 💡 I enjoy working on **real-world applications of AI and data-driven decision-making**  
 - 💞️ I’m looking to collaborate on **data science projects, research work, and innovative simulations**  
 - 📫 How to reach me: **[[Email](lutegaurav1@gmail.com
