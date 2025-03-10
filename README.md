@@ -5,7 +5,6 @@
 📊 **Passionate about Data Science, Machine Learning, Deep Learning, Generative AI, and Optimization**  
 
 ---
-https://github.com/gauravlute01
 ### 🚀 About Me  
 
 - 👀 **Interests:** Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, and Simulation-based problem-solving  
