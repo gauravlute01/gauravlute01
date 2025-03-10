@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Gaurav Lute 
-![Profile Views](https://komarev.com/ghpvc/?username=your-gauravlute01&label=Profile+Views&color=blue)  
+
 
 🔬 **M.Tech in Modeling and Simulation** | 🎓 Savitribai Phule Pune University  
 📊 **Passionate about Data Science, Machine Learning, Deep Learning, Generative AI, and Optimization**  
@@ -15,5 +15,4 @@ https://github.com/gauravlute01
 - 📫 **How to Reach Me:** [Email](#) | [LinkedIn](#) | [GitHub](#)  
 - ⚡ **Fun Fact:** I love exploring ML | DL | Optimization algorithms and their practical applications!  
 
----
-🔗 **Let's connect and build something amazing together!** 🚀
+**Let's connect and build something amazing together!** 
