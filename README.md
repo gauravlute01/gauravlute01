@@ -1,18 +1,25 @@
-# 👋 Hi, I’m Gaurav Lute  
+### 👋 Hi, I’m Gaurav Lute  
 
-🔬 **M.Tech in Modeling and Simulation** | 🎓 **Savitribai Phule Pune University**  
-📊 **Passionate about Data Science, Machine Learning,Deep Learning, Generative Ai and Optimization**  
+🔬 **M.Tech in Modeling and Simulation** | 🎓 Savitribai Phule Pune University  
+📊 **Passionate about Data Science, Machine Learning, Deep Learning, Generative AI, and Optimization**  
 
-## 🚀 About Me  
-- 👀 I’m interested in **Machine Learning, Deep Learning, computer vision,NLP, Gen-AI and simulation-based problem solving**  
-- 🌱 I’m currently learning **Generative Ai, Computer Vision and Deep learning techniques**  
-- 💡 I enjoy working on **real-world applications of AI and data-driven decision-making**  
-- 💞️ I’m looking to collaborate on **data science projects, research work, and innovative simulations**  
-- 📫 How to reach me: **[[Email](lutegaurav1@gmail.com
-) / [LinkedIn](https://www.linkedin.com/in/gaurav-lute-6a36a1200/) / [GitHub Profile Link](https://github.com/gauravlute01)]**   
-- ⚡ Fun fact: **I love exploring ML | DL | Optimization algorithms and their practical applications!**  
+---
 
-<!---
-gauravlute01/gauravlute01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 About Me  
+
+- 👀 **Interests:** Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, and Simulation-based problem-solving  
+- 🌱 **Currently Learning:** Generative AI, Computer Vision, and Advanced Deep Learning techniques  
+- 💡 **Excited About:** Real-world applications of AI and data-driven decision-making  
+- 💞️ **Open to Collaboration On:** Data science projects, research work, and innovative simulations  
+- 📫 **How to Reach Me:** [Email](#) | [LinkedIn](#) | [GitHub](#)  
+- ⚡ **Fun Fact:** I love exploring ML | DL | Optimization algorithms and their practical applications!  
+
+---
+
+### 📈 GitHub Stats  
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile+Views&color=blue)  
+
+---
+
+🔗 **Let's connect and build something amazing together!** 🚀
