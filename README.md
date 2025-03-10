@@ -4,7 +4,7 @@
 📊 **Passionate about Data Science, Machine Learning, Deep Learning, Generative AI, and Optimization**  
 
 ---
-
+https://github.com/gauravlute01
 ### 🚀 About Me  
 
 - 👀 **Interests:** Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, and Simulation-based problem-solving  
@@ -18,7 +18,7 @@
 
 ### 📈 GitHub Stats  
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile+Views&color=blue)  
+![Profile Views](https://komarev.com/ghpvc/?username=your-gauravlute01&label=Profile+Views&color=blue)  
 
 ---
 
