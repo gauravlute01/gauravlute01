@@ -11,7 +11,6 @@
 - 🌱 **Currently Learning:** Generative AI, Computer Vision, and Advanced Deep Learning techniques  
 - 💡 **Excited About:** Real-world applications of AI and data-driven decision-making  
 - 💞️ **Open to Collaboration On:** Data science projects, research work, and innovative simulations  
-- 📫 **How to Reach Me:** [Email](lutegaurav1@gmail.com) | [LinkedIn](www.linkedin.com/in/gaurav-lute-6a36a1200)
 - ⚡ **Fun Fact:** I love exploring ML | DL | Optimization algorithms and their practical applications!  
 
 **Let's connect and build something amazing together!** 
