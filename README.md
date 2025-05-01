@@ -2,7 +2,7 @@
 
 
 🔬 **M.Tech in Modeling and Simulation** | 🎓 Savitribai Phule Pune University  
-📊 **Passionate about Data Analyst, Data Science, Machine Learning, Deep Learning, Generative AI, and Optimization**  
+📊 **Passionate about Data Analyst, Data Science, Machine Learning, Deep Learning, Generative AI, and Optimization.**  
 
 ---
 ### 🚀 About Me  
