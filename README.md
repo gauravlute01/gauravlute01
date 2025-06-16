@@ -16,4 +16,5 @@
 - Solar Irradiance Prediction using Stellite data and machine learning.
 - Fake Image Detection using CNN.
 - Credit Risk Modeling using Machine Learning.
+  
 **Let's connect and build something amazing together!** 
