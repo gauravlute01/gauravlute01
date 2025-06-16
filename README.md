@@ -12,4 +12,8 @@
 - **Open to Collaboration On:** Data Analysis,Data science projects, research work, and innovative simulations  
 - **Fun Fact:** I love exploring ML | DL | Optimization algorithms and their practical applications!  
 
+#**Academic Projects**
+- Solar Irradiance Prediction using Stellite data and machine learning.
+- Fake Image Detection using CNN.
+- Credit Risk Modeling using Machine Learning.
 **Let's connect and build something amazing together!** 
