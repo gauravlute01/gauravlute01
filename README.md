@@ -12,7 +12,7 @@
 - **Open to Collaboration On:** Predictive modeling, Time Series Forecasting Projects,Data science projects, research work, and innovative simulations  
 - **Fun Fact:** I love exploring ML | DL | Optimization algorithms and their practical applications!  
 
-#**Academic Projects**
+🤖**Academic Projects**
 - Solar Irradiance Prediction using Stellite data and machine learning.
 - Fake Image Detection using CNN.
 - Credit Risk Modeling using Machine Learning.
