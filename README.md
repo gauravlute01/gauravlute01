@@ -13,7 +13,7 @@
 - **Fun Fact:** I love exploring ML | DL | Optimization algorithms and their practical applications!  
 
 🤖**Academic Projects**
-- Solar Irradiance Prediction using Stellite data and machine learning.(https://github.com/gauravlute01/Solar-irradiance-Prediction-Using-Satellite-Data-and-Machine-Learning.).
+- Solar Irradiance Prediction using Stellite data and machine learning.![Link](https://github.com/gauravlute01/Solar-irradiance-Prediction-Using-Satellite-Data-and-Machine-Learning.).
 - Fake Image Detection using CNN.(https://github.com/gauravlute01/Fake-Image-Detection)
 - Credit Risk Modeling using Machine Learning.(https://github.com/gauravlute01/Credit-Risk-Modeling)
   
