@@ -14,7 +14,8 @@
 
 🤖**Academic Projects**
 - Solar Irradiance Prediction using Stellite data and machine learning.![Link](https://github.com/gauravlute01/Solar-irradiance-Prediction-Using-Satellite-Data-and-Machine-Learning.).
-- Fake Image Detection using CNN.![Link](https://github.com/gauravlute01/Fake-Image-Detection)
 - Credit Risk Modeling using Machine Learning.![Link](https://github.com/gauravlute01/Credit-Risk-Modeling)
+- Fake Image Detection using CNN.![Link](https://github.com/gauravlute01/Fake-Image-Detection)
+- Next Word Prediction Using LSTM.![Link](https://github.com/gauravlute01/Next-word-prediction)
   
 **Let's connect and build something amazing together!** 
