@@ -18,4 +18,4 @@
 - Fake Image Detection using CNN.![Link](https://github.com/gauravlute01/Fake-Image-Detection)
 - Next Word Prediction Using LSTM.![Link](https://github.com/gauravlute01/Next-word-prediction)
   
-**Let's connect and build something amazing together!** 
+**Let's connect and build something amazing together.** 
