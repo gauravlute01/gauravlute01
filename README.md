@@ -11,8 +11,9 @@
 - **Excited About:** Real-world applications of AI and data-driven decision-making  
 - **Open to Collaboration On:** Predictive modeling, Time Series Forecasting Projects,Data science projects, research work, and innovative simulations  
 - **Fun Fact:** I love exploring ML | DL | Optimization algorithms and their practical applications.
+
 **Ongoing Project**
-  - Opthomology Ai - We detect and segment fundus using YOLO.
+- Ophthalmology Ai - We detect and segment fundus using YOLO.
 
 🤖**Academic Projects**
 - Solar Irradiance Prediction using Stellite data and machine learning.![Link](https://github.com/gauravlute01/Solar-irradiance-Prediction-Using-Satellite-Data-and-Machine-Learning.).
