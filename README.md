@@ -2,7 +2,7 @@
 
 
 🔬 **M.Tech in Modeling and Simulation** | **🎓 Savitribai Phule Pune University.**
-- 📊 **Passionate about Machine Learning, Time Series Forecasting, Predictive Modeling, Deep Learning, Generative AI, and Optimization Techniques**  
+- 📊 **Passionate about Machine Learning, Time Series Forecasting, Predictive Modeling, Deep Learning, Generative AI, and Optimization Techniques.**  
 
 ---
 ### 🚀 About Me  
