@@ -13,6 +13,7 @@
 - **Fun Fact:** I love exploring ML | DL | Optimization algorithms and their practical applications.
 
 **Ongoing Project**
+- Build LLM from scratch.
 - Ophthalmology Ai - We detect and segment fundus using YOLO
 
 🤖**Academic Projects**
