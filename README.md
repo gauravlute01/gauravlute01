@@ -12,10 +12,6 @@
 - **Open to Collaboration On:** Predictive modeling, Time Series Forecasting Projects,Data science projects, research work, and innovative simulations  
 - **Fun Fact:** I love exploring ML | DL | Optimization algorithms and their practical applications.
 
-**Ongoing Project**
-- Build LLM from scratch.
-- Ophthalmology Ai - We detect and segment fundus using YOLO
-
 🤖**Academic Projects**
 - Solar Irradiance Prediction using Stellite data and machine learning.![Link](https://github.com/gauravlute01/Solar-irradiance-Prediction-Using-Satellite-Data-and-Machine-Learning.).
 - Credit Risk Modeling using Machine Learning.![Link](https://github.com/gauravlute01/Credit-Risk-Modeling)
